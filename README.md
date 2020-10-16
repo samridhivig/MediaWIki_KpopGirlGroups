@@ -15,7 +15,7 @@ Screenshots:
 ![Screenshot](Screenshot2.png)
 
 #Interactive list of all groups
-![Screenshot](Screenshot3.png)
+![Screenshot](ScreenShot3.png)
 
 #Latest News
 ![Screenshot](Screenshot4.png)
